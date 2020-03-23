@@ -13,7 +13,7 @@ ___________________________________
 Dogecoin is a cryptocurrency like Ethereum. It is created with an ERC20 smart contract. We took the development of various cryptocurrencies to create The First Coin.
 
 
-## LINK
+## Link
 
 
 Website: http://thefirstcoin.com
@@ -31,7 +31,7 @@ Email: thefirstcoin.tfc@gmail.com
 
 
 
-## communities
+## Communities
 
 https://medium.com/
 
@@ -64,7 +64,7 @@ ____________________________________
 
 ## Sales and mining process
 
-### TFC Specifications
+## TFC Specifications
 
 This project was born in 2019, with a launch in 2020. Currently we have a portfolio of 100,000,000 coins. Each block will award 10,000 coins to miners to continue protecting by helping evolved the ETH network. With a maximum of 500 blocks.
 
@@ -82,7 +82,7 @@ Decimals: 18
 Contract address: 0x210C203E8f05Be72B69624FE08B9A5530d51eE36
 
 
-# Performance
+## Performance
 
 The First Coin uses proof of work with a target time of one minute per block. Block rewards are fixed and not reduced. Starting with the 10,000 block, a permanent reward of 10,000 TFC will be paid per block.
 
