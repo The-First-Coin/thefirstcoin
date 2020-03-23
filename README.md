@@ -40,10 +40,14 @@ ____________________________________
 This project was born in 2019, with a launch in 20202. Currently we have a portfolio of 100,000,000 coins. Each block will award 10,000 coins to miners to continue protecting by helping evolved the ETH network. With a maximum of 500 blocks.
 
 
-TFC is a payment token powering the Blockchain ecosystem.
+TFC is a payment token powering the Blockchain ecosystem
+
 Type: ERC20 (custom Ethereum token)
+
 Circulating supply: 50,000,000.000000000000000000 TFC
+
 Total supply: 100,000,000.000000000000000000 TFC
+
 Decimals: 18
 
 Contract address: 0x210C203E8f05Be72B69624FE08B9A5530d51eE36
