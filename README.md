@@ -13,7 +13,32 @@ ___________________________________
 Dogecoin is a cryptocurrency like Ethereum. It is created with an ERC20 smart contract. We took the development of various cryptocurrencies to create The First Coin.
 
 
-http://thefirstcoin.com
+## LINK
+
+
+Website: http://thefirstcoin.com
+
+Github: https://github.com/The-First-Coin
+
+Telegram:  @thefirstcoin
+
+Facebook: The First Coin - TFC
+
+Twitter: thefirstcoin.tfc@gmail.com
+
+
+## communities
+
+https://medium.com/
+
+https://disqus.com
+
+https://reddit.com
+
+https://kiwiirc.com/
+
+https://forobits.com/
+
 
 
 _____________________________________
