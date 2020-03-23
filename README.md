@@ -26,6 +26,10 @@ Facebook: The First Coin - TFC
 
 Twitter: thefirstcoin.tfc@gmail.com
 
+Email: thefirstcoin.tfc@gmail.com
+
+
+
 
 ## communities
 
