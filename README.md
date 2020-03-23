@@ -7,7 +7,7 @@ ___________________________________
 
 
 
-## The First Coin? – TFC
+## The First Coin – TFC
 
 
 Dogecoin is a cryptocurrency like Ethereum. It is created with an ERC20 smart contract. We took the development of various cryptocurrencies to create The First Coin.
