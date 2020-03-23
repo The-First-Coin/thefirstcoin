@@ -7,13 +7,19 @@ ___________________________________
 
 
 
+
+
 ## The First Coin – TFC
+
 
 
 Dogecoin is a cryptocurrency like Ethereum. It is created with an ERC20 smart contract. We took the development of various cryptocurrencies to create The First Coin.
 
 
+
+
 ## Link
+
 
 
 Website: http://thefirstcoin.com
@@ -27,6 +33,8 @@ Facebook: The First Coin - TFC
 Twitter: thefirstcoin.tfc@gmail.com
 
 Email: thefirstcoin.tfc@gmail.com
+
+
 
 
 
@@ -48,11 +56,15 @@ https://forobits.com/
 _____________________________________
 
 
+
+
 ## Developing
 Development is in process and development, those of us who work on the growth of this cryptocurrency can freely work on its growth.
 
+
 #### Version
 Only a single alpha version is available. A beta version will be released soon with future bug fixes.
+
 
 #### Maintenance
 Maintenance contains planned release codes and stays active correcting bugs.
@@ -62,11 +74,15 @@ ____________________________________
 
 
 
+
 ## Sales and mining process
+
 
 ## TFC Specifications
 
+
 This project was born in 2019, with a launch in 2020. Currently we have a portfolio of 100,000,000 coins. Each block will award 10,000 coins to miners to continue protecting by helping evolved the ETH network. With a maximum of 500 blocks.
+
 
 
 TFC is a payment token powering the Blockchain ecosystem
@@ -82,9 +98,13 @@ Decimals: 18
 Contract address: 0x210C203E8f05Be72B69624FE08B9A5530d51eE36
 
 
+
+
 ## Performance
 
+
 The First Coin uses proof of work with a target time of one minute per block. Block rewards are fixed and not reduced. Starting with the 10,000 block, a permanent reward of 10,000 TFC will be paid per block.
+
 
 The current block reward schedule:
 
@@ -99,6 +119,7 @@ The current block reward schedule:
 4,000,000–4,999,999: 0-5,000,000 Dogecoin
 
 
+
 Development may vary depending on the demand for rewards, with adjustments in the beta version.
 
 
@@ -108,6 +129,8 @@ Development may vary depending on the demand for rewards, with adjustments in th
 
 
 _______________________________________
+
+
 
 ## License – MIT
 The First Coin - TFC is released under the terms of the MIT license. See [Copying](Copying) for more
