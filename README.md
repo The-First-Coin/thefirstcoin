@@ -37,7 +37,7 @@ ____________________________________
 
 ### TFC Specifications
 
-This project was born in 2019, with a launch in 20202. Currently we have a portfolio of 100,000,000 coins. Each block will award 10,000 coins to miners to continue protecting by helping evolved the ETH network. With a maximum of 500 blocks.
+This project was born in 2019, with a launch in 2020. Currently we have a portfolio of 100,000,000 coins. Each block will award 10,000 coins to miners to continue protecting by helping evolved the ETH network. With a maximum of 500 blocks.
 
 
 TFC is a payment token powering the Blockchain ecosystem
